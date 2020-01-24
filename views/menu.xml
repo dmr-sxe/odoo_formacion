@@ -1,0 +1,6 @@
+<odoo>
+  <data>
+    <menuitem id="main_odoo_formacion" name="Xestión de Cursos"/>
+    <menuitem id="cursos_menu" name="Cursos" parent="main_odoo_formacion" action="curso_list_action"/>
+  </data>
+</odoo>
